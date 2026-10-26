@@ -3,9 +3,9 @@
     "id": "softbodyengine",
     "title": "Soft Body Engine",
     "genre": "Sandbox",
-    "desc": "A soft body engine that simulates softbodys with rigid bodies (note this is made with AI so bugs can happen)",
+    "desc": "A soft body engine that simulates softbodies with rigid bodies (note this is made with AI so bugs can happen)",
     "author": "TinyBrother4",
     "added": "2026-10-25",
-    "download": "games/soft.7z"
+    "download": "/games/Soft.7z"
   }
 ]
