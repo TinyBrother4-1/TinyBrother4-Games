@@ -1,7 +1,7 @@
 /* ---------- SETTINGS ----------
    SITE_REPO: your GitHub repo for this site, like "TinyBrother4-1/games" (adds an "Open GitHub issue" button
    to the request form). Leave "" to only use Discord. */
-const SITE_REPO = "";
+const SITE_REPO = "https://github.com/TinyBrother4-1/TinyBrother4-Games";
 const DISCORD = "https://discord.gg/JuyfSvKeHW";
 
 const $ = s => document.querySelector(s);
