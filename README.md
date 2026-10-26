@@ -7,7 +7,7 @@ The official repository for **TinyBrother4 Games** — a Steam-inspired website 
 ---
 
 * **Bugs & Security:** Join our Discord From The Website to report issues!
-* **Safety:** Only download games from devs you trust.
+* **Safety:** Only download games from devs you trust. (i Review The Games Before Publish)
 * *Note: Themed after Steam, but not affiliated with or supported by Valve/Steam in any way.*
 
 the website looks like this:
